@@ -1,0 +1,13 @@
+# Python virtual environment
+venv/
+
+# Vector database
+chroma_db/
+Fintech-data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/

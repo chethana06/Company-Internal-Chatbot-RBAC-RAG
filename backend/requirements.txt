@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-jose
+passlib[bcrypt]
+sqlalchemy
+pydantic
+chromadb
+sentence-transformers
+langchain
+langchain-chroma
+transformers
+torch
